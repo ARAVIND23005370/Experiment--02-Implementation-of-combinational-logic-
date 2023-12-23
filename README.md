@@ -69,7 +69,6 @@ RegisterNumber: 23005371
 ## TRUTH TABLE
 ![Screenshot 2023-12-23 110129](https://github.com/ARAVIND23005370/Experiment--02-Implementation-of-combinational-logic-/assets/148514836/0bbb5b44-c2dd-4dc5-a092-6353813f1ad8)
 
-
 ## Timing Diagram
 ![image](https://github.com/ARAVIND23005370/Experiment--02-Implementation-of-combinational-logic-/assets/148514836/aff1796e-510b-4736-848d-b17d4734ac8b)
 ## Result:
